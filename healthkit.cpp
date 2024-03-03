@@ -39,24 +39,6 @@ void Bmi()
     }
     
 }
-
-//TAKING INPUT FROM USER
-
-void input()
-{
-    int age,ch;
-    float weight,height;
-    cout<<"\nEnter your Height:\t";
-    cin>>height;
-    cout<<"\nEnter your Weight:\t";
-    cin>>weight;
-    cout<<"\nEnter if you have any of the above disease: 1)b.p.\t2)diabetes";
-    cin>>ch;
-    
-    
-    
-
-}
 int main()
 {
     float height,weight,bmi;
